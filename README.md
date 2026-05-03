@@ -1,1 +1,1 @@
-一个关于windows下，快速设置java，go环境变量的工具
+一个windows下，快速设置java，go环境变量的工具
