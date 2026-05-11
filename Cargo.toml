@@ -4,3 +4,5 @@ version = "0.1.0"
 edition = "2024"
 
 [dependencies]
+egui_extras = { version = "0.34.2", features = ["all_loaders"] }
+eframe = "0.34.2"
