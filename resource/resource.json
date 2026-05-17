@@ -7,8 +7,8 @@
   ],
   "go": [
     {
-      "name": "go1.25.9",
-      "url": "https://golang.google.cn/dl/go1.25.9.windows-arm64.zip"
+      "name": "go1.25.10",
+      "url": "https://golang.google.cn/dl/go1.25.10.windows-arm64.zip"
     },
     {
       "name": "go1.26.3",
